@@ -1,16 +1,40 @@
-## Hi there 👋
+# 👋 Hi, I'm Anisha Garg  
 
-<!--
-**Ani-sha23/Ani-sha23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 B.Tech Student | AI & ML Enthusiast | Full-Stack Developer  
+🚀 Passionate about building real-world tech that solves human problems  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills  
+- Python, Java, C++  
+- Machine Learning, Deep Learning  
+- OpenCV, TensorFlow, Keras  
+- React, Node.js  
+- Git, GitHub  
+
+---
+
+## Current Focus  
+- AI in Healthcare & Transportation  
+- Computer Vision Projects  
+- Open-Source Contribution  
+
+---
+
+## Featured Projects  
+
+| Project | Description |
+|--------|-------------|
+| 🚗 Driver Drowsiness Detection | AI system to prevent road accidents |
+| 🏛 Smart Heritage Trail | Virtual heritage tourism platform |
+| 📊 AI Attendance System | Face recognition based attendance |
+
+---
+
+## Connect with me  
+🔗 LinkedIn: www.linkedin.com/in/anisha-garg-b90918349  
+💻 GitHub: https://github.com/Ani-sha23  
+
+---
+
+⭐ *"Code that impacts lives is my goal."*
