@@ -1,7 +1,7 @@
-# 👋 Hi, I'm Anisha Garg  
+#  Hi, I'm Anisha Garg  
 
-🎓 B.Tech Student | AI & ML Enthusiast | Full-Stack Developer  
-🚀 Passionate about building real-world tech that solves human problems  
+ B.Tech Student | AI & ML Enthusiast | Full-Stack Developer  
+ Passionate about building real-world tech that solves human problems  
 
 ---
 
@@ -25,16 +25,16 @@
 
 | Project | Description |
 |--------|-------------|
-| 🚗 Driver Drowsiness Detection | AI system to prevent road accidents |
-| 🏛 Smart Heritage Trail | Virtual heritage tourism platform |
-| 📊 AI Attendance System | Face recognition based attendance |
+|  Driver Drowsiness Detection | AI system to prevent road accidents |
+|  Smart Heritage Trail | Virtual heritage tourism platform |
+|  AI Attendance System | Face recognition based attendance |
 
 ---
 
 ## Connect with me  
-🔗 LinkedIn: www.linkedin.com/in/anisha-garg-b90918349  
-💻 GitHub: https://github.com/Ani-sha23  
+ LinkedIn: www.linkedin.com/in/anisha-garg-b90918349  
+ GitHub: https://github.com/Ani-sha23  
 
 ---
 
-⭐ *"Code that impacts lives is my goal."*
+ *"Code that impacts lives is my goal."*
