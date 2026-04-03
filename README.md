@@ -1,40 +1,102 @@
-#  Hi, I'm Anisha Garg  
+<h1 align="center">Hi, I'm Anisha Garg</h1>
 
- B.Tech Student | AI & ML Enthusiast | Full-Stack Developer  
- Passionate about building real-world tech that solves human problems  
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00BFFF&center=true&vCenter=true&width=800&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;B.Tech+Student;Building+Tech+That+Impacts+Lives" />
+  </a>
+</p>
 
----
-
-## Skills  
-- Python, Java, C++  
-- Machine Learning, Deep Learning  
-- OpenCV, TensorFlow, Keras  
-- React, Node.js  
-- Git, GitHub  
-
----
-
-## Current Focus  
-- AI in Healthcare & Transportation  
-- Computer Vision Projects  
-- Open-Source Contribution  
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Ani-sha23&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://img.shields.io/github/followers/Ani-sha23?label=Followers&style=social" />
+  <img src="https://img.shields.io/github/stars/Ani-sha23?label=Stars&style=social" />
+</p>
 
 ---
 
-## Featured Projects  
-
-| Project | Description |
-|--------|-------------|
-|  Driver Drowsiness Detection | AI system to prevent road accidents |
-|  Smart Heritage Trail | Virtual heritage tourism platform |
-|  AI Attendance System | Face recognition based attendance |
+## About Me
+I am a driven B.Tech student specializing in Artificial Intelligence and Full-Stack Development. I focus on building scalable, real-world solutions that create meaningful impact in domains like healthcare, transportation, and smart systems.
 
 ---
 
-## Connect with me  
- LinkedIn: www.linkedin.com/in/anisha-garg-b90918349  
- GitHub: https://github.com/Ani-sha23  
+## Tech Stack
+
+### Languages
+`Python` `Java` `C++`
+
+### AI / ML
+`Machine Learning` `Deep Learning` `Computer Vision`
+
+### Frameworks & Tools
+`TensorFlow` `Keras` `OpenCV`
+
+### Web Development
+`React.js` `Node.js`
+
+### Tools
+`Git` `GitHub`
 
 ---
 
- *"Code that impacts lives is my goal."*
+## Current Focus
+- AI in Healthcare and Transportation  
+- Advanced Computer Vision Systems  
+- Open Source Contributions  
+
+---
+
+## Featured Projects
+
+### Driver Drowsiness Detection
+AI-based real-time monitoring system to detect fatigue and prevent accidents.
+
+### Smart Heritage Trail
+Interactive virtual tourism platform enhancing cultural exploration.
+
+### SmartTrace
+AI-powered Lost & Found platform with intelligent matching and tracking.
+
+---
+
+## GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Ani-sha23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ani-sha23&theme=tokyonight&hide_border=true" height="170"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-sha23&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
+</p>
+
+---
+
+## Contribution Graph
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Ani-sha23/Ani-sha23/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+## Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/anisha-garg-b90918349">
+    <img src="https://img.shields.io/badge/LinkedIn-Anisha%20Garg-blue?style=for-the-badge&logo=linkedin" />
+  </a>
+  <a href="https://github.com/Ani-sha23">
+    <img src="https://img.shields.io/badge/GitHub-Ani--sha23-black?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+## Vision
+To build intelligent systems that solve real-world problems and create a lasting positive impact.
+
+---
+
+<p align="center">
+  <i>"Code that impacts lives is my goal."</i>
+</p>
