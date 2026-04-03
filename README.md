@@ -6,22 +6,20 @@
   </a>
 </p>
 
-## Highlights
-
-<ul>
-  <li>Developing AI-driven solutions for real-world impact</li>
-  <li>Specialized in Computer Vision and Machine Learning</li>
-  <li>Full-Stack Developer with React and Node.js</li>
-  <li>Focused on Healthcare and Smart Transportation systems</li>
-  <li>Continuously learning and contributing to Open Source</li>
-</ul>
-
----
-
 ---
 
 ## About Me
-I am a driven B.Tech student specializing in Artificial Intelligence and Full-Stack Development. I focus on building scalable, real-world solutions that create meaningful impact in domains like healthcare, transportation, and smart systems.
+I am a B.Tech student specializing in Artificial Intelligence and Full-Stack Development. I focus on building scalable, real-world solutions that create meaningful impact in domains like healthcare, transportation, and smart systems.
+
+---
+
+## Highlights
+
+- Developing AI-driven solutions for real-world impact  
+- Specialized in Computer Vision and Machine Learning  
+- Full-Stack Developer with React and Node.js  
+- Focused on Healthcare and Smart Transportation systems  
+- Actively exploring Open Source and scalable architectures  
 
 ---
 
@@ -44,23 +42,16 @@ I am a driven B.Tech student specializing in Artificial Intelligence and Full-St
 
 ---
 
-## Current Focus
-- AI in Healthcare and Transportation  
-- Advanced Computer Vision Systems  
-- Open Source Contributions  
-
----
-
 ## Featured Projects
 
 ### Driver Drowsiness Detection
-AI-based real-time monitoring system to detect fatigue and prevent accidents.
+AI-based real-time monitoring system to detect fatigue and prevent accidents using computer vision.
 
 ### Smart Heritage Trail
-Interactive virtual tourism platform enhancing cultural exploration.
+A virtual tourism platform providing interactive and immersive cultural exploration.
 
 ### SmartTrace
-AI-powered Lost & Found platform with intelligent matching and tracking.
+An AI-powered Lost & Found platform using intelligent matching and tracking systems.
 
 ---
 
