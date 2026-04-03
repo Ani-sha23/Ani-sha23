@@ -6,11 +6,17 @@
   </a>
 </p>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Ani-sha23&label=Profile%20Views&color=0e75b6&style=flat" />
-  <img src="https://img.shields.io/github/followers/Ani-sha23?label=Followers&style=social" />
-  <img src="https://img.shields.io/github/stars/Ani-sha23?label=Stars&style=social" />
-</p>
+## Highlights
+
+<ul>
+  <li>Developing AI-driven solutions for real-world impact</li>
+  <li>Specialized in Computer Vision and Machine Learning</li>
+  <li>Full-Stack Developer with React and Node.js</li>
+  <li>Focused on Healthcare and Smart Transportation systems</li>
+  <li>Continuously learning and contributing to Open Source</li>
+</ul>
+
+---
 
 ---
 
