@@ -55,27 +55,6 @@ An AI-powered Lost & Found platform using intelligent matching and tracking syst
 
 ---
 
-## GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ani-sha23&show_icons=true&theme=tokyonight&hide_border=true" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ani-sha23&theme=tokyonight&hide_border=true" height="170"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-sha23&layout=compact&theme=tokyonight&hide_border=true" height="150"/>
-</p>
-
----
-
-## Contribution Graph
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Ani-sha23/Ani-sha23/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
 ## Connect With Me
 
 <p align="center">
