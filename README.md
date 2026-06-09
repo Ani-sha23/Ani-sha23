@@ -139,7 +139,7 @@ Improves road safety by monitoring driver alertness in real-time.
 
 ---
 
-## 🌍 Smart Heritage Trail
+## 🌍 HeritageIntel
 
 ### Interactive Tourism Platform
 
