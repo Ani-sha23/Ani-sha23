@@ -170,16 +170,6 @@ Improves road safety by monitoring driver alertness in real-time.
 
 ---
 
-# 🏅 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Ani-sha23&theme=tokyonight&no-frame=true&row=1&column=7" />
-
-</div>
-
----
-
 # 🎯 2026 Goals
 
 - ✅ Solve 500+ DSA Problems
