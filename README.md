@@ -16,7 +16,7 @@
 
 ---
 
-# 🚀 About Me
+# About Me
 
 <img align="right" alt="Coding" width="380" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2l0MGlhYnJ3djlld3g0eWtndDJydnBvYWk0OWp1eTBnZ2RqOHQ4MSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l0HlNaQ6gWfllcjDO/giphy.gif">
 
