@@ -222,7 +222,7 @@ Improves road safety by monitoring driver alertness in real-time.
 
 ```yaml
 Name: Anisha Garg
-University: VIT Bhopal
+University: Vellore Institute of Technology , Bhopal
 Field: Artificial Intelligence & Machine Learning
 Passion:
   - Building AI Products
