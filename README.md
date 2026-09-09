@@ -59,7 +59,7 @@ me = AnishaGarg()
 
 # 🛠️ Tech Stack
 
-### Programming Languages
+
 
 <p align="left">
 <img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
