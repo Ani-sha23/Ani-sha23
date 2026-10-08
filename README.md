@@ -1,249 +1,275 @@
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
-<!--                    ANISHA GARG — VISION PROFILE                       -->
+<!--                          ANISHA GARG — README                           -->
 <!-- ═══════════════════════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-# ANISHA GARG
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:0891B2,100:6D28D9&height=190&section=header&text=Anisha%20Garg&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Backend%20Systems&descSize=17&descAlignY=60" alt="Anisha Garg — AI/ML Engineer, Computer Vision, Backend Systems" width="100%"/>
 
-### `AI / ML DEVELOPER` · `COMPUTER VISION` · `SOFTWARE ENGINEERING`
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+computer+vision+and+multi-agent+AI+systems;B.Tech+CSE+(AI+%26+ML)+%C2%B7+VIT+Bhopal+%C2%B7+2024%E2%80%932028;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+React;Targeting+AI%2FML+and+software+engineering+roles" alt="Animated tagline: building computer vision and multi-agent AI systems" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=Teaching+Machines+to+See;Building+Intelligent+Systems;Turning+Data+into+Decisions;Engineering+Ideas+into+Products" alt="Typing SVG" />
+<br/>
 
-<br>
-
-<img src="https://img.shields.io/badge/AI%2FML-Developer-00D9FF?style=for-the-badge&logo=artificial-intelligence&logoColor=white"/>
-<img src="https://img.shields.io/badge/Computer-Vision-8A2BE2?style=for-the-badge&logo=opencv&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSE-AIML-FF4B4B?style=for-the-badge"/>
-<img src="https://img.shields.io/badge/VIT-Bhopal-0078D4?style=for-the-badge"/>
+<a href="https://www.linkedin.com/in/anisha-garg-b90918349"><img src="https://img.shields.io/badge/LinkedIn-Anisha_Garg-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn profile"/></a>
+<a href="mailto:anishagrg2806@gmail.com"><img src="https://img.shields.io/badge/Email-anishagrg2806@gmail.com-0891B2?style=flat-square&logo=gmail&logoColor=white" alt="Send an email"/></a>
+<a href="https://leetcode.com/u/anisha_47/"><img src="https://img.shields.io/badge/LeetCode-anisha__47-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
+<a href="https://www.kaggle.com/anishagargcoder"><img src="https://img.shields.io/badge/Kaggle-anishagargcoder-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile"/></a>
+<a href="https://heritage-intel.vercel.app/"><img src="https://img.shields.io/badge/Live_Demo-HeritageIntel-6D28D9?style=flat-square&logo=vercel&logoColor=white" alt="HeritageIntel live demo"/></a>
 
 </div>
 
----
+<br/>
 
-## `VISION_PROFILE.exe`
+## About
+
+I'm a third-year B.Tech Computer Science and Engineering student (AI & ML) at **VIT Bhopal University**, building toward a career as an AI engineer who can ship production-grade intelligent systems.
+
+My work spans **computer vision**, **multi-agent LLM systems with RAG**, and **backend APIs**. I enjoy taking a model from experiment to a working, deployable service.
 
 ```text
-┌────────────────────────────────────────────────────────────────────────────┐
-│                         ARTIFICIAL INTELLIGENCE UNIT                       │
-├────────────────────────────────────────────────────────────────────────────┤
-│                                                                            │
-│   SUBJECT        :  ANISHA GARG                                           │
-│   SPECIALIZATION :  COMPUTER SCIENCE + ARTIFICIAL INTELLIGENCE             │
-│   ROLE           :  AI / ML DEVELOPER                                    │
-│   ENVIRONMENT    :  VIT BHOPAL UNIVERSITY                                │
-│   LOCATION       :  INDIA                                                 │
-│                                                                            │
-│   PRIMARY MISSION                                                         │
-│   ──────────────────────────────────────────────────────────────────────   │
-│   Build intelligent systems that can SEE, LEARN, REASON and ACT.          │
-│                                                                            │
-│   CURRENT MODE     :  BUILDING                                           │
-│   LEARNING MODE    :  ALWAYS ON                                          │
-│   CURIOSITY LEVEL  :  ∞                                                  │
-│                                                                            │
-└────────────────────────────────────────────────────────────────────────────┘
+role         AI/ML Engineering · Computer Vision · Applied AI · Backend
+education    B.Tech CSE (AI & ML), VIT Bhopal, 2024–2028
+experience   Research Intern @ MANIT Bhopal · Campus Ambassador @ E-Cell IIT Bombay
+open source  GSSoC & SSoC contributor
+location     India
+```
 
-### 🌟 What I'm Doing
+<br/>
 
-- 🔭 Building AI-powered products
-- 🌱 Learning Advanced Machine Learning & System Design
-- 💻 Solving DSA problems daily
-- 🚀 Exploring scalable backend architectures
-- 🤝 Contributing to Open Source
-- 📚 Preparing for Software Engineering & AI roles
+## Currently Building and Learning
 
----
+| Building | Learning / Focus |
+|:--|:--|
+| Industrial defect inspection with PyTorch (**VisionInspect-AI**) | Advanced ML and Computer Vision |
+| Multi-agent support orchestration (**SwarmDesk AI**) | System Design and Backend Engineering |
+| Heritage trail platform (**HeritageIntel**) | Cloud, Deployment and MLOps |
+| Data Structures and Algorithms practice on LeetCode | Data Structures and Algorithms |
 
-# 🛠️ Tech Stack
+<br/>
 
+## Tech Stack
 
+<table>
+<tr>
+<td width="190"><b>Languages</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=python,java,cpp,c,js" alt="Python, Java, C++, C, JavaScript"/>
+&nbsp;<sub>+ SQL</sub>
+</td>
+</tr>
+<tr>
+<td><b>AI / ML</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,numpy,pandas" alt="PyTorch, TensorFlow, OpenCV, Scikit-learn, NumPy, Pandas"/>
+<br/>
+<sub>Machine Learning · Deep Learning · Computer Vision · NLP · CNNs · RAG · Generative AI · Feature Engineering · Model Evaluation · MediaPipe · NLTK</sub>
+</td>
+</tr>
+<tr>
+<td><b>Backend and Web</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,react,html,css" alt="FastAPI, Node.js, Express, React, HTML, CSS"/>
+<br/>
+<sub>REST APIs · Axios</sub>
+</td>
+</tr>
+<tr>
+<td><b>Databases</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb" alt="MySQL, MongoDB"/>
+&nbsp;<sub>+ FAISS · ChromaDB (vector search)</sub>
+</td>
+</tr>
+<tr>
+<td><b>Cloud and Deployment</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=aws,azure,vercel" alt="AWS, Azure, Vercel"/>
+&nbsp;<sub>+ Render</sub>
+</td>
+</tr>
+<tr>
+<td><b>Tools</b></td>
+<td>
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,postman" alt="Git, GitHub, Linux, VS Code, Postman"/>
+&nbsp;<sub>+ Jupyter · Google Colab</sub>
+</td>
+</tr>
+<tr>
+<td><b>Core CS</b></td>
+<td><sub>DSA · OOP · DBMS · Operating Systems · Computer Networks · System Design</sub></td>
+</tr>
+</table>
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=python,java,cpp,c" />
-</p>
+<br/>
 
-### AI / Machine Learning
+## Featured Projects
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
-</p>
+### VisionInspect-AI
+**AI-powered visual quality inspection for industrial defect detection.**
 
-**Computer Vision • Deep Learning • CNN • NLP • Feature Engineering • Model Evaluation**
+`Python` `PyTorch` `Computer Vision` `Deep Learning` `CUDA`
 
-### Web Development
+- Prepared an industrial image-defect dataset split into **8,800 train / 1,884 validation / 1,884 test** images.
+- Configured a CUDA-enabled PyTorch environment and verified GPU-accelerated execution.
+- Structured for iterative model training, evaluation, and benchmarking.
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=react,nodejs,mongodb,html,css,javascript" />
-</p>
+**Why it matters:** Automated visual inspection is a practical, high-value application of deep learning in manufacturing quality control.
 
-### Databases
+[Repository](https://github.com/Ani-sha23/VisionInspect-AI)
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=mysql,mongodb" />
-</p>
+<br/>
 
-### Tools & Platforms
+### HeritageIntel
+**Smart heritage trail and digital pass platform.**
 
-<p align="left">
-<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,opencv" />
-</p>
+`React` `FastAPI` `Python` `QR Technology`
 
----
+- React frontend connected to a FastAPI backend through REST APIs.
+- Digital heritage passes with QR-based access to heritage information.
+- Interactive visitor experience with smart navigation, built to support future GIS and recommendation features.
 
-# 🏆 Featured Projects
+**Why it matters:** Shows end-to-end product work: frontend, API design, deployment, and a modular architecture that is ready to extend.
 
-## 🚗 Driver Drowsiness Detection
+[Repository](https://github.com/Ani-sha23/HeritageIntel) · [Live prototype](https://heritage-intel.vercel.app/)
 
-### Tech Stack
+<br/>
 
-`Python` `OpenCV` `MediaPipe` `Computer Vision`
+### More Projects
 
-### Features
+<table>
+<tr>
+<td width="50%" valign="top">
 
-✔ Real-time facial landmark detection
+**SwarmDesk AI**
+<br/><sub>Multi-agent intelligent support orchestration, built for Microsoft Build AI Hackathon 2026 (Team InnovaLite)</sub>
+<br/><br/>
+`Python` `Microsoft AutoGen` `Azure AI` `FastAPI` `RAG`
+<br/><br/>
+Specialized agents for ticket routing, knowledge retrieval, and issue resolution, using RAG for context-aware responses.
 
-✔ Eye Aspect Ratio (EAR) monitoring
+</td>
+<td width="50%" valign="top">
 
-✔ Continuous fatigue detection
+**AgeNova**
+<br/><sub>Multi-agent AI platform for autonomous planning and reasoning</sub>
+<br/><br/>
+`Python` `FastAPI` `LangGraph` `LLMs` `RAG` `FAISS` `ChromaDB`
+<br/><br/>
+RAG pipeline with FAISS and ChromaDB, modular FastAPI services, memory management, and tool calling.
 
-✔ Automated alert mechanism
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
 
-### Impact
+**SmartTrace**
+<br/><sub>AI image matching for lost-and-found items</sub>
+<br/><br/>
+`Python` `TensorFlow` `OpenCV` `FastAPI` `SQL`
+<br/><br/>
+Feature extraction, preprocessing, and similarity search, with APIs for image upload, indexing, and retrieval.
 
-Improves road safety by monitoring driver alertness in real-time.
+</td>
+<td width="50%" valign="top">
 
----
+**Driver Drowsiness Detection**
+<br/><sub>Real-time fatigue monitoring</sub>
+<br/><br/>
+`Python` `OpenCV` `MediaPipe` `Face Mesh`
+<br/><br/>
+Facial landmark tracking with Eye Aspect Ratio (EAR) to detect drowsiness and trigger automated alerts.
 
-## 🔍 SmartTrace
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
 
-### AI-Powered Lost & Found Platform
+**CivicLens AI**
+<br/><sub>Smart city analytics platform</sub>
+<br/><br/>
+`Python` `React` `FastAPI` `Machine Learning`
+<br/><br/>
+REST APIs and interactive dashboards for visualizing urban infrastructure and public service data, with ML-driven insights.
 
-### Features
+</td>
+</tr>
+</table>
 
-✔ Intelligent image matching
+<div align="center">
+<sub>All repositories: <a href="https://github.com/Ani-sha23?tab=repositories">github.com/Ani-sha23?tab=repositories</a></sub>
+</div>
 
-✔ Computer Vision based similarity detection
+<br/>
 
-✔ Scalable database architecture
+## Experience and Open Source
 
-✔ Fast search and retrieval
+| Role | Organization | Focus |
+|:--|:--|:--|
+| Research Intern | MANIT, Bhopal | AI-driven computational research, ML experimentation, model development, dataset analysis, technical documentation |
+| Campus Ambassador | E-Cell, IIT Bombay | Entrepreneurship initiatives and student outreach |
+| Contributor | GSSoC and SSoC | Open-source bug fixes, documentation, and feature development |
 
-✔ TensorFlow-powered backend
+<br/>
 
-### Result
-
-📈 Improved matching accuracy by approximately 30%.
-
----
-
-## 🌍 HeritageIntel
-
-### Interactive Tourism Platform
-
-- Smart Navigation
-- Cultural Exploration
-- Virtual Heritage Experience
-- Interactive User Journey
-
----
-
-# 🔥 GitHub Streak
+## GitHub Activity
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ani-sha23&theme=tokyonight&hide_border=true" />
+<img src="https://github-readme-stats.vercel.app/api?username=Ani-sha23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=22D3EE&icon_color=8B5CF6&count_private=true" alt="GitHub stats for Ani-sha23" height="170"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-sha23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=22D3EE" alt="Most used languages on GitHub" height="170"/>
+
+<img src="https://streak-stats.demolab.com/?user=Ani-sha23&theme=tokyonight&hide_border=true&background=0B0F1A&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub contribution streak for Ani-sha23"/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ani-sha23&theme=tokyo-night&hide_border=true&bg_color=0B0F1A&color=22D3EE&line=8B5CF6&point=FFFFFF" alt="GitHub contribution activity graph" width="100%"/>
 
 </div>
 
----
+<br/>
 
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ani-sha23&theme=tokyo-night&hide_border=true" />
-
-</div>
-
----
-
-# 🎯 2026 Goals
-
-- ✅ Solve 500+ DSA Problems
-- ✅ Build 5 Production-Ready AI Projects
-- ✅ Contribute to Open Source
-- ✅ Publish Technical Blogs
-- ✅ Secure Top Internship Opportunities
-- ✅ Learn Advanced System Design
-- ✅ Grow Global Developer Network
-
----
-
-# 🌐 Connect With Me
-
-<div align="center">
-
-<a href="mailto:anishagrg2806@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail"/>
-</a>
-
-<a href="https://www.linkedin.com/in/anisha-garg-b90918349">
-<img src="https://img.shields.io/badge/LinkedIn-Anisha_Garg-blue?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="https://github.com/Ani-sha23">
-<img src="https://img.shields.io/badge/GitHub-Ani--sha23-black?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="https://leetcode.com">
-<img src="https://img.shields.io/badge/LeetCode-Profile-orange?style=for-the-badge&logo=leetcode"/>
-</a>
-
-</div>
-
----
-
-# 💻 Coding Profiles
+## Competitive Programming
 
 <div align="center">
 
 <a href="https://leetcode.com/u/anisha_47/">
-<img src="https://leetcard.jacoblin.cool/anisha_47?theme=dark&font=Nunito&ext=heatmap" />
+<img src="https://leetcard.jacoblin.cool/anisha_47?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats for anisha_47"/>
 </a>
 
 </div>
 
----
+<br/>
 
-# ⚡ Fun Facts
+## Certifications and Achievements
 
-```yaml
-Name: Anisha Garg
-University: Vellore Institute of Technology , Bhopal
-Field: Artificial Intelligence & Machine Learning
-Passion:
-  - Building AI Products
-  - Solving Real Problems
-  - Learning New Technologies
-Dream:
-  - Become a World-Class AI Engineer
+- **LeetCode** 50-Day Badge (2026)
+- **Infosys Foundation** STEM Stars Scholar
+- **NPTEL** Cloud Computing (Elite)
+- **NPTEL** Programming with Generative AI
+- **University of Michigan** Applied Machine Learning in Python
+- JsonPowerDB Beginner · Google Gemini Write-off
+
+<br/>
+
+## Career Direction
+
+```text
+AI / ML Engineering  ──  Computer Vision  ──  Applied AI
+Backend Engineering  ──  Cloud and MLOps  ──  Software Engineering
 ```
 
----
+Long-term goal: become an AI engineer who builds **production-grade intelligent systems**, from model development through API design to cloud deployment.
+
+<br/>
+
+## Contact
 
 <div align="center">
 
-## 💡 Personal Philosophy
-
-### "Code with Purpose. Build with Impact. Learn without Limits."
-
-</div>
-
----
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00D9FF,100:6A5ACD&height=120&section=footer"/>
+<a href="mailto:anishagrg2806@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anisha Garg"/></a>
+<a href="https://www.linkedin.com/in/anisha-garg-b90918349"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
+<a href="https://github.com/Ani-sha23"><img src="https://img.shields.io/badge/GitHub-Ani--sha23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile Ani-sha23"/></a>
+<a href="https://leetcode.com/u/anisha_47/"><img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
+<a href="https://www.kaggle.com/anishagargcoder"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile"/></a>
 
 </div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6D28D9,50:0891B2,100:0B0F1A&height=110&section=footer" alt="Decorative footer wave" width="100%"/>
