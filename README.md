@@ -22,7 +22,7 @@
 
 ## About
 
-I'm a third-year B.Tech Computer Science and Engineering student (AI & ML) at **VIT Bhopal University**, building toward a career as an AI engineer who can ship production-grade intelligent systems.
+I'm a B.Tech Computer Science and Engineering student (AI & ML) at **Vellore Institute of Technology**, building toward a career as an AI engineer who can ship production-grade intelligent systems.
 
 My work spans **computer vision**, **multi-agent LLM systems with RAG**, and **backend APIs**. I enjoy taking a model from experiment to a working, deployable service.
 
