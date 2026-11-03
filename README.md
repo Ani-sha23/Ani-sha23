@@ -222,23 +222,6 @@ REST APIs and interactive dashboards for visualizing urban infrastructure and pu
 | Campus Ambassador | E-Cell, IIT Bombay | Entrepreneurship initiatives and student outreach |
 | Contributor | GSSoC and SSoC | Open-source bug fixes, documentation, and feature development |
 
-<br/>
-
-## GitHub Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Ani-sha23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=22D3EE&icon_color=8B5CF6&count_private=true" alt="GitHub stats for Ani-sha23" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ani-sha23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0B0F1A&title_color=22D3EE" alt="Most used languages on GitHub" height="170"/>
-
-<img src="https://streak-stats.demolab.com/?user=Ani-sha23&theme=tokyonight&hide_border=true&background=0B0F1A&ring=22D3EE&fire=8B5CF6&currStreakLabel=22D3EE" alt="GitHub contribution streak for Ani-sha23"/>
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ani-sha23&theme=tokyo-night&hide_border=true&bg_color=0B0F1A&color=22D3EE&line=8B5CF6&point=FFFFFF" alt="GitHub contribution activity graph" width="100%"/>
-
-</div>
-
-<br/>
-
 ## Competitive Programming
 
 <div align="center">
