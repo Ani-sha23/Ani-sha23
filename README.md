@@ -6,7 +6,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B0F1A,50:0891B2,100:6D28D9&height=190&section=header&text=Anisha%20Garg&fontColor=FFFFFF&fontSize=52&fontAlignY=38&desc=AI%20%2F%20ML%20Engineer%20%C2%B7%20Computer%20Vision%20%C2%B7%20Backend%20Systems&descSize=17&descAlignY=60" alt="Anisha Garg — AI/ML Engineer, Computer Vision, Backend Systems" width="100%"/>
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+computer+vision+and+multi-agent+AI+systems;B.Tech+CSE+(AI+%26+ML)+%C2%B7+VIT+Bhopal+%C2%B7+2024%E2%80%932028;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+React;Targeting+AI%2FML+and+software+engineering+roles" alt="Animated tagline: building computer vision and multi-agent AI systems" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1200&color=22D3EE&center=true&vCenter=true&width=720&lines=Building+computer+vision+and+multi-agent+AI+systems;B.Tech+CSE+(AI+%26+ML)+%C2%B7+VIT+%C2%B7+2024%E2%80%932028;Python+%C2%B7+PyTorch+%C2%B7+FastAPI+%C2%B7+React;Targeting+AI%2FML+and+software+engineering+roles" alt="Animated tagline: building computer vision and multi-agent AI systems" />
 
 <br/>
 
