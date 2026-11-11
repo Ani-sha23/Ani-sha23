@@ -247,7 +247,6 @@ Long-term goal: become an AI engineer who builds **production-grade intelligent 
 <a href="mailto:anishagrg2806@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-0891B2?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Anisha Garg"/></a>
 <a href="https://www.linkedin.com/in/anisha-garg-b90918349"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn"/></a>
 <a href="https://github.com/Ani-sha23"><img src="https://img.shields.io/badge/GitHub-Ani--sha23-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub profile Ani-sha23"/></a>
-<a href="https://leetcode.com/u/anisha_47/"><img src="https://img.shields.io/badge/LeetCode-Profile-F59E0B?style=for-the-badge&logo=leetcode&logoColor=white" alt="LeetCode profile"/></a>
 <a href="https://www.kaggle.com/anishagargcoder"><img src="https://img.shields.io/badge/Kaggle-Profile-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle profile"/></a>
 
 </div>
