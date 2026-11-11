@@ -18,10 +18,6 @@
   <img src="https://img.shields.io/badge/Email-anishagarg2806@gmail.com-0891B2?style=flat-square&logo=gmail&logoColor=white" alt="Send an email"/>
 </a>
 
-<a href="https://leetcode.com/u/anisha_47/">
-  <img src="https://img.shields.io/badge/LeetCode-anisha__47-F59E0B?style=flat-square&logo=leetcode&logoColor=white" alt="LeetCode profile"/>
-</a>
-
 <a href="https://www.kaggle.com/anishagargcoder">
   <img src="https://img.shields.io/badge/Kaggle-anishagargcoder-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile"/>
 </a>
