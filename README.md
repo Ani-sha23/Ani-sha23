@@ -215,15 +215,6 @@ REST APIs and interactive dashboards for visualizing urban infrastructure and pu
 | Campus Ambassador | E-Cell, IIT Bombay | Entrepreneurship initiatives and student outreach |
 | Contributor | GSSoC and SSoC | Open-source bug fixes, documentation, and feature development |
 
-## Competitive Programming
-
-<div align="center">
-
-<a href="https://leetcode.com/u/anisha_47/">
-<img src="https://leetcard.jacoblin.cool/anisha_47?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode stats for anisha_47"/>
-</a>
-
-</div>
 
 <br/>
 
