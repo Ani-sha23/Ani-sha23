@@ -22,9 +22,6 @@
   <img src="https://img.shields.io/badge/Kaggle-anishagargcoder-20BEFF?style=flat-square&logo=kaggle&logoColor=white" alt="Kaggle profile"/>
 </a>
 
-<a href="https://anishagargportfolio.netlify.app/">
-  <img src="https://img.shields.io/badge/Portfolio-Visit_My_Portfolio-8A2BE2?style=flat-square&logo=netlify&logoColor=white" alt="Portfolio"/>
-</a>
 </div>
 
 <br/>
